@@ -16,7 +16,7 @@ export default function About() {
                     Passionate developer dedicated to learning newfound technologies, solving complex problems and transforming dreams into reality.
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores inventore error voluptates nisi voluptate totam temporibus earum maiores culpa impedit dolorem id doloribus nemo minima commodi consequatur, labore dolorum at aliquam assumenda sed laboriosam eaque dolore. Soluta repellendus impedit debitis similique, optio dignissimos porro alias nulla sunt corrupti temporibus labore!
                 </div>
-                <Image src={"/assets/about.jpg"} width={300} height={300} />
+                <Image src={"./assets/about.jpg"} width={300} height={300} />
             </div>
 
         </section>

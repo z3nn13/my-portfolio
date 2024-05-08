@@ -7,7 +7,7 @@ const Hero = () => {
         <section className="hero w-full flex flex-center flex-col gap-6 ">
             <div className="mx-auto mt-24 animate__animated animate__fadeInUp" >
                 <Image
-                    src="/assets/pfp.jpg"
+                    src="./assets/pfp.jpg"
                     width={202}
                     height={102}
                 />
@@ -21,15 +21,15 @@ const Hero = () => {
 
             <ul className="social-icons flex justify-center gap-9 animate__animated animate__fadeInUp animate__delay-3s">
                 <li>
-                    <a href="https://www.instagram.com/zen.r.knb/" target='_blank' rel="noopener noreferrer"><Image src="/assets/instagram.svg" width={30} height={30} /></a>
+                    <a href="https://www.instagram.com/zen.r.knb/" target='_blank' rel="noopener noreferrer"><Image src="./assets/instagram.svg" width={30} height={30} /></a>
                 </li>
                 <li>
                     <a href="https://www.linkedin.com/in/paul-phyo-896bb7261/" target="_blank" rel="noopener noreferrer">
-                        <Image src="/assets/linkedin.svg" width={30} height={30} /></a>
+                        <Image src="./assets/linkedin.svg" width={30} height={30} /></a>
                 </li>
                 <li>
                     <a href="https://github.com/z3nn13/" target="_blank" rel="noopener noreferrer">
-                        <Image src="/assets/github.svg" width={30} height={30} /></a>
+                        <Image src="./assets/github.svg" width={30} height={30} /></a>
                 </li>
             </ul>
 
